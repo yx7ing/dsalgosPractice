@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class divideandconquer0 {
+public class divideandconquer0minmax {
     
     public static void main(String[] args) {
         System.out.println("Find Max D&C");

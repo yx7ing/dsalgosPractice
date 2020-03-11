@@ -4,7 +4,7 @@ import java.util.Arrays;
  *
  * @author YXTing
  */
-public class divideandconquer1 {
+public class divideandconquer1mergesort {
     public static void main(String[] args) {
         System.out.println("Merge Sort Ascending");
         
